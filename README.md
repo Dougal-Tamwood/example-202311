@@ -6,3 +6,4 @@ The primary objective in this exercise is to understand:
 1. Learn about CSS Grid
 2. Learn the difference between Flex and Grid
 
+CHANGE
